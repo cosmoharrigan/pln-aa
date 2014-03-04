@@ -1,0 +1,10000 @@
+[add] {
+    "atom":
+    {
+        "handle": "5",
+        "type": "ConceptNode",
+        "name": "Bob",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0.1667",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "1",
+        "type": "PredicateNode",
+        "name": "friends",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "3",
+        "type": "PredicateNode",
+        "name": "cancer",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "4",
+        "type": "ConceptNode",
+        "name": "Anna",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0.1667",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "2",
+        "type": "PredicateNode",
+        "name": "smokes",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "6",
+        "type": "ConceptNode",
+        "name": "Edward",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0.1667",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "7",
+        "type": "ConceptNode",
+        "name": "Frank",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0.1667",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "8",
+        "type": "ConceptNode",
+        "name": "Gary",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0.1667",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "9",
+        "type": "ConceptNode",
+        "name": "Helen",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0.1667",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "10",
+        "type": "VariableNode",
+        "name": "$X",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "11"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "11",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "10"
+        ],
+        "incoming":
+        [
+            "12"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "12",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "2",
+            "11"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "13",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "3",
+            "11"
+        ],
+        "incoming":
+        [
+            "14"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "14",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0.5",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "12",
+            "13"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "12",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "12",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "2",
+            "11"
+        ],
+        "incoming":
+        [
+            "14"
+        ]
+    }
+}
+
+[tvChanged] {
+    "handle": "13",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "13",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "3",
+            "11"
+        ],
+        "incoming":
+        [
+            "14"
+        ]
+    }
+}
+
+[tvChanged] {
+    "handle": "14",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0.5",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "14",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0.5",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "12",
+            "13"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "15",
+        "type": "VariableNode",
+        "name": "$Y",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "16"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "16",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "10",
+            "15"
+        ],
+        "incoming":
+        [
+            "17"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "17",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "16"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "17",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "17",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "16"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "12",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "12",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "2",
+            "11"
+        ],
+        "incoming":
+        [
+            "14"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "19",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "2",
+            "18"
+        ],
+        "incoming":
+        [
+            "20"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "18",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "15"
+        ],
+        "incoming":
+        [
+            "19"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "20",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0.4",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "12",
+            "17",
+            "19"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "20",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0.4",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "20",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0.4",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "12",
+            "17",
+            "19"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "19",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "19",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "2",
+            "18"
+        ],
+        "incoming":
+        [
+            "20"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "21",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "15",
+            "10"
+        ],
+        "incoming":
+        [
+            "22"
+        ]
+    }
+}
+
+[tvChanged] {
+    "handle": "17",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "17",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "16"
+        ],
+        "incoming":
+        [
+            "20"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "22",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "21"
+        ],
+        "incoming":
+        [
+            "23"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "23",
+        "type": "EquivalenceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "17",
+            "22"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "22",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "22",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "21"
+        ],
+        "incoming":
+        [
+            "23"
+        ]
+    }
+}
+
+[tvChanged] {
+    "handle": "21",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "21",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "15",
+            "10"
+        ],
+        "incoming":
+        [
+            "22"
+        ]
+    }
+}
+
+[tvChanged] {
+    "handle": "23",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "23",
+        "type": "EquivalenceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "17",
+            "22"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "24",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "4",
+            "5"
+        ],
+        "incoming":
+        [
+            "25"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "25",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "24"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "25",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "25",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "24"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "26",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "4",
+            "6"
+        ],
+        "incoming":
+        [
+            "27"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "27",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "26"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "27",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "27",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "26"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "28",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "4",
+            "7"
+        ],
+        "incoming":
+        [
+            "29"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "29",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "28"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "29",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "29",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "28"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "30",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "6",
+            "7"
+        ],
+        "incoming":
+        [
+            "31"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "31",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "30"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "31",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "31",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "30"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "32",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "8",
+            "9"
+        ],
+        "incoming":
+        [
+            "33"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "33",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "32"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "33",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "33",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "32"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "34",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "4",
+            "8"
+        ],
+        "incoming":
+        [
+            "35"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "35",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "34"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "35",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "35",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "34"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "36",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "4",
+            "9"
+        ],
+        "incoming":
+        [
+            "37"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "37",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "36"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "37",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "37",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "36"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "38",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "5",
+            "6"
+        ],
+        "incoming":
+        [
+            "39"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "39",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "38"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "39",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "39",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "38"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "40",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "5",
+            "7"
+        ],
+        "incoming":
+        [
+            "41"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "41",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "40"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "41",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "41",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "40"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "42",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "5",
+            "8"
+        ],
+        "incoming":
+        [
+            "43"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "43",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "42"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "43",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "43",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "42"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "44",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "5",
+            "9"
+        ],
+        "incoming":
+        [
+            "45"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "45",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "44"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "45",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "45",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "44"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "46",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "6",
+            "8"
+        ],
+        "incoming":
+        [
+            "47"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "47",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "46"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "47",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "47",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "46"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "48",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "6",
+            "9"
+        ],
+        "incoming":
+        [
+            "49"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "49",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "48"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "49",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "49",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "48"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "50",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "7",
+            "8"
+        ],
+        "incoming":
+        [
+            "51"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "51",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "50"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "51",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "51",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "50"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "52",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "7",
+            "9"
+        ],
+        "incoming":
+        [
+            "53"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "53",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "52"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "53",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "0",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "53",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "0",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "1",
+            "52"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "54",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "4"
+        ],
+        "incoming":
+        [
+            "55"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "55",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "2",
+            "54"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "55",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "55",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "2",
+            "54"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "56",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "6"
+        ],
+        "incoming":
+        [
+            "57"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "57",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "2",
+            "56"
+        ],
+        "incoming": ""
+    }
+}
+
+[tvChanged] {
+    "handle": "57",
+    "tvOld":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "0",
+            "confidence": "0"
+        }
+    },
+    "tvNew":
+    {
+        "type": "simple",
+        "details":
+        {
+            "strength": "1",
+            "count": "4473923584",
+            "confidence": "0.9999998"
+        }
+    },
+    "atom":
+    {
+        "handle": "57",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "4473923584",
+                "confidence": "0.9999998"
+            }
+        },
+        "outgoing":
+        [
+            "2",
+            "56"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "58",
+        "type": "VariableNode",
+        "name": "$hasCancer",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "59"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "59",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "58"
+        ],
+        "incoming":
+        [
+            "60"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "60",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "3",
+            "59"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "61",
+        "type": "PredicateNode",
+        "name": "query",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "63"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "62",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "60"
+        ],
+        "incoming":
+        [
+            "63"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "63",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "61",
+            "62"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "64",
+        "type": "PredicateNode",
+        "name": "rules",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "65",
+        "type": "ConceptNode",
+        "name": "DeductionRule",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "66",
+        "type": "ConceptNode",
+        "name": "EvaluationToMemberRule",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "67",
+        "type": "ConceptNode",
+        "name": "MemberToEvaluationRule",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "69",
+        "type": "ConceptNode",
+        "name": "InheritanceToMemberRule",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "70"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "68",
+        "type": "ConceptNode",
+        "name": "MemberToInheritanceRule",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "70"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "71",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "64",
+            "70"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "70",
+        "type": "ListLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "65",
+            "66",
+            "67",
+            "68",
+            "69"
+        ],
+        "incoming":
+        [
+            "71"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "73",
+        "type": "VariableNode",
+        "name": "$pln_var_SVMRvOCB9ZMpLnbV",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "75",
+            "74"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "72",
+        "type": "VariableNode",
+        "name": "$pln_var_fa37JncCHryDsbza",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "74"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "74",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "73",
+            "72"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "75",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "72",
+            "73"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "76",
+        "type": "VariableNode",
+        "name": "$pln_var_ORK0D66styKIX94z",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "77",
+        "type": "VariableNode",
+        "name": "$pln_var_P1uEzNZP8ZOg2Ojg",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "80"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "78",
+        "type": "VariableNode",
+        "name": "$pln_var_LDwACECzzFmgiA8W",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "81",
+            "79"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "81",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "77",
+            "78"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "79",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "76",
+            "78"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "80",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "76",
+            "77"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "82",
+        "type": "VariableNode",
+        "name": "$pln_var_11wLUd2r2CfBRjEi",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "83",
+        "type": "VariableNode",
+        "name": "$pln_var_NhFtvZKp8DxDdsNy",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "86"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "84",
+        "type": "VariableNode",
+        "name": "$pln_var_SyOlh56trbXnMtng",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "85"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "85",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "82",
+            "84"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "86",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "83",
+            "82"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "87",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "83",
+            "84"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "88",
+        "type": "VariableNode",
+        "name": "$pln_var_fyDNO34oIqY70RXV",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "89",
+        "type": "VariableNode",
+        "name": "$pln_var_rYUn631XvlHR0VUb",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "90",
+        "type": "VariableNode",
+        "name": "$pln_var_7AzNPb9JBbOYGQv5",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "91",
+            "93"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "91",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "88",
+            "90"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "93",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "90",
+            "89"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "92",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "88",
+            "89"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "94",
+        "type": "VariableNode",
+        "name": "$pln_var_o8WkXLRT9aeNxU6A",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "96"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "95",
+        "type": "VariableNode",
+        "name": "$pln_var_IXVjGSKznPWFiux5",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "97",
+            "96"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "97",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "95",
+            "94"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "96",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "94",
+            "95"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "98",
+        "type": "VariableNode",
+        "name": "$pln_var_dOJEvaF6n4kIaWEj",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "18446744073709551615"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "99",
+        "type": "VariableNode",
+        "name": "$pln_var_foLlI30CZeNqGc6v",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "100"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "100",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "98",
+            "99"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "101",
+        "type": "VariableNode",
+        "name": "$pln_var_gHz4HbT7VIPTptQ6",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "102",
+        "type": "VariableNode",
+        "name": "$pln_var_Jpfx17ThJ5ZHRusg",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "104",
+            "103"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "103",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "102",
+            "101"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "104",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "101",
+            "102"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "105",
+        "type": "VariableNode",
+        "name": "$pln_var_gE5NycfOize3OayR",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "106",
+        "type": "VariableNode",
+        "name": "$pln_var_JqayL3fRAWpo9Y7L",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "109"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "108",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "105",
+            "107"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "107",
+        "type": "VariableNode",
+        "name": "$pln_var_fGH1aLEjSnQq5tQr",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "108"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "110",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "106",
+            "107"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "109",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "105",
+            "106"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "112",
+        "type": "VariableNode",
+        "name": "$pln_var_4CeruD9u9Hvnm5df",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "115"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "111",
+        "type": "VariableNode",
+        "name": "$pln_var_yV28WdVeJjsVZDAj",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "114",
+            "115"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "113",
+        "type": "VariableNode",
+        "name": "$pln_var_SACSuyAJth2Ncv9l",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "114",
+            "116"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "114",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "111",
+            "113"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "115",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "112",
+            "111"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "116",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "112",
+            "113"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "117",
+        "type": "VariableNode",
+        "name": "$pln_var_71sTjvYdnLoiae8c",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "118",
+        "type": "VariableNode",
+        "name": "$pln_var_ZeaWQhrGm2TEJjS0",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "119",
+        "type": "VariableNode",
+        "name": "$pln_var_PIAp5d0BHs4CqGbS",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "120"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "121",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "117",
+            "118"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "122",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "119",
+            "118"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "120",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "117",
+            "119"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "123",
+        "type": "VariableNode",
+        "name": "$pln_var_TWuqwXfOarDEVW8I",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "124",
+        "type": "VariableNode",
+        "name": "$pln_var_1FKuIZsHbuCNbipn",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "125",
+            "126"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "125",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "123",
+            "124"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "126",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "124",
+            "123"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "127",
+        "type": "VariableNode",
+        "name": "$pln_var_fF4ZT1jqpbILeuaD",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "129"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "129",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "127",
+            "128"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "130",
+        "type": "VariableNode",
+        "name": "$pln_var_MoHEJ0iEj6oXuHHW",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "132"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "131",
+        "type": "VariableNode",
+        "name": "$pln_var_aWW7jDifNrDer99Q",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "132",
+            "133"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "133",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "130",
+            "131"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "134",
+        "type": "VariableNode",
+        "name": "$pln_var_rtUFXoz9UUOoeh6Z",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "132",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "131",
+            "130"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "135",
+        "type": "VariableNode",
+        "name": "$pln_var_QMGUSlKUVIdiSCXK",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "138"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "136",
+        "type": "VariableNode",
+        "name": "$pln_var_KBXqpN6Ld4xZQ3WU",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "137"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "137",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "134",
+            "136"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "139",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "135",
+            "136"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "140",
+        "type": "VariableNode",
+        "name": "$pln_var_YMtUHNNSNyqLCkVo",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "138",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "true"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "134",
+            "135"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "141",
+        "type": "VariableNode",
+        "name": "$pln_var_55BPehZTgcqJlKHy",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "144"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "142",
+        "type": "VariableNode",
+        "name": "$pln_var_SycwiFYgAkr3evwz",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "143",
+            "145"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "143",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "140",
+            "142"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "144",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "141",
+            "140"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "145",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "true"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "141",
+            "142"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "146",
+        "type": "VariableNode",
+        "name": "$pln_var_uihllkNnpnAEgWDp",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "147",
+        "type": "VariableNode",
+        "name": "$pln_var_clJYx035gPpmVvK4",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "148",
+        "type": "VariableNode",
+        "name": "$pln_var_jqSv6RXU6u0lRNPn",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "149"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "149",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "146",
+            "148"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "150",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "146",
+            "147"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "151",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "true"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "148",
+            "147"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "153",
+        "type": "VariableNode",
+        "name": "$pln_var_Y5d4Gl5RerbtrQff",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "154",
+            "155"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "152",
+        "type": "VariableNode",
+        "name": "$pln_var_0AZfAOJCjBWHrggE",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "154",
+            "155"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "154",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "152",
+            "153"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "155",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "153",
+            "152"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "156",
+        "type": "VariableNode",
+        "name": "$pln_var_9qtAHZExJ6hRdJG4",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "158"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "157",
+        "type": "VariableNode",
+        "name": "$pln_var_Efz7Pt1JwHuuGNIs",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "158"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "158",
+        "type": "PredictiveImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "156",
+            "157"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "160",
+        "type": "VariableNode",
+        "name": "$pln_var_EfJ9KMiKzZXPqPpv",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "159",
+        "type": "VariableNode",
+        "name": "$pln_var_TnsRCokvCuZ5fh7H",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "162"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "161",
+        "type": "VariableNode",
+        "name": "$pln_var_dLWUyg0TGHkdxS18",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "162"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "162",
+        "type": "SimilarityLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "159",
+            "161"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "164",
+        "type": "SimilarityLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "true"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "160",
+            "161"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "163",
+        "type": "SimilarityLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "159",
+            "160"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "165",
+        "type": "VariableNode",
+        "name": "$pln_var_q9f4LEmacnepfZGv",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "166",
+        "type": "VariableNode",
+        "name": "$pln_var_smudx1D510lDJbIY",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "167"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "167",
+        "type": "SimilarityLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "165",
+            "166"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "169",
+        "type": "VariableNode",
+        "name": "$pln_var_8pMAZbRH2OSC0277",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "172"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "170",
+        "type": "VariableNode",
+        "name": "$pln_var_eaSjqZrzjt44C4JJ",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "171"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "168",
+        "type": "VariableNode",
+        "name": "$pln_var_NGDFocDM0QPx9P2Q",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "171"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "171",
+        "type": "EquivalenceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "168",
+            "170"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "173",
+        "type": "EquivalenceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "169",
+            "170"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "174",
+        "type": "VariableNode",
+        "name": "$pln_var_0UwtTyAOxcEV7nWt",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "176"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "175",
+        "type": "VariableNode",
+        "name": "$pln_var_Yhk30Q4urwwnLskq",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "176"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "176",
+        "type": "EquivalenceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "174",
+            "175"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "172",
+        "type": "EquivalenceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "true"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "168",
+            "169"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "177",
+        "type": "VariableNode",
+        "name": "$pln_var_tWDvEWCX2owTYhe0",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "180"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "179",
+        "type": "VariableNode",
+        "name": "$pln_var_9fHNZEFyxKPrPWY5",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "180"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "178",
+        "type": "VariableNode",
+        "name": "$pln_var_qd8crEKEX0dwxihe",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "181"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "181",
+        "type": "ImplicationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "177",
+            "178"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "180",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "true"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "177",
+            "179"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "182",
+        "type": "EvaluationLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "178",
+            "179"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "183",
+        "type": "VariableNode",
+        "name": "$pln_var_PdqkmLgmwdjQWR3y",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "185"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "184",
+        "type": "VariableNode",
+        "name": "$pln_var_P8nDyFoudixaL8ZP",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "185",
+            "186"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "186",
+        "type": "SubsetLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "183",
+            "184"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "187",
+        "type": "IntensionalInheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "183",
+            "184"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "188",
+        "type": "VariableNode",
+        "name": "$pln_var_YQE1JTOvquqz6N58",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "185",
+        "type": "InheritanceLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "183",
+            "184"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "189",
+        "type": "VariableNode",
+        "name": "$pln_var_KwO67xlIXzHPlmp2",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "190",
+            "191"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "190",
+        "type": "SimilarityLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "188",
+            "189"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "191",
+        "type": "AndLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "188",
+            "189"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "128",
+        "type": "VariableNode",
+        "name": "$pln_var_BdevGEEOcbmNWKyn",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "true"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "129"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "192",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "188",
+            "189"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "193",
+        "type": "VariableNode",
+        "name": "$pln_var_tcwBlfgC4tfHnwpn",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "195"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "194",
+        "type": "VariableNode",
+        "name": "$pln_var_GgF2J4M07G3ZYWq7",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "195"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "196",
+        "type": "VariableNode",
+        "name": "$pln_var_95UGaXt8DCVwXBHd",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "195",
+        "type": "AndLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "193",
+            "194"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "197",
+        "type": "VariableNode",
+        "name": "$pln_var_h3S61deM3yXgYsVb",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "198"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "198",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "196",
+            "197"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "200",
+        "type": "VariableNode",
+        "name": "$pln_var_k6sAjwoAXLzFCdq0",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "201"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "199",
+        "type": "VariableNode",
+        "name": "$pln_var_ZBv9xADk31n3JZYq",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "201"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "202",
+        "type": "VariableNode",
+        "name": "$pln_var_dxIyYWmQBvuAoS6Y",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "204"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "201",
+        "type": "AndLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "199",
+            "200"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "206",
+        "type": "VariableNode",
+        "name": "$pln_var_w7ZzixDcru7WzP2Z",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "208"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "203",
+        "type": "VariableNode",
+        "name": "$pln_var_yEx4tAV4bQo7040z",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "204"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "205",
+        "type": "VariableNode",
+        "name": "$pln_var_GgBNAqpUCERO7nEB",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "208"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "208",
+        "type": "AndLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "205",
+            "206",
+            "207"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "204",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "202",
+            "203"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "209",
+        "type": "VariableNode",
+        "name": "$pln_var_IzYHPXw8mWhvZtxk",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "210",
+        "type": "VariableNode",
+        "name": "$pln_var_F9oZw4e1YdDV7u0q",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "212"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "207",
+        "type": "VariableNode",
+        "name": "$pln_var_EoPfClhIqMtWIWjs",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "208"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "212",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "209",
+            "210",
+            "211"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "211",
+        "type": "VariableNode",
+        "name": "$pln_var_DuxK9XfOaqHrkqPH",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "212"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "213",
+        "type": "VariableNode",
+        "name": "$pln_var_oOXOxeoetX0DbPKD",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "216"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "215",
+        "type": "VariableNode",
+        "name": "$pln_var_paSgkB3K0483dOhr",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "216"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "216",
+        "type": "AndLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "213",
+            "214",
+            "215"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "214",
+        "type": "VariableNode",
+        "name": "$pln_var_oyx1zcOJ4VdwduCm",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "216"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "217",
+        "type": "VariableNode",
+        "name": "$pln_var_fVCyCayQE8MGZv3J",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "218",
+        "type": "VariableNode",
+        "name": "$pln_var_WSjjjZEtmXET1z5s",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "220"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "219",
+        "type": "VariableNode",
+        "name": "$pln_var_tCUF05Ghn9LiyZAP",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "220"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "220",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "217",
+            "218",
+            "219"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "222",
+        "type": "VariableNode",
+        "name": "$pln_var_7kzCR7Cbhmvtvd9i",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "223",
+        "type": "VariableNode",
+        "name": "$pln_var_nRhJdbYwJDoNYFFc",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "225"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "224",
+        "type": "VariableNode",
+        "name": "$pln_var_uVo0WDs3oxDUYhOq",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "225"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "226",
+        "type": "VariableNode",
+        "name": "$pln_var_Rg8Piqijf5AzomyR",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "225",
+        "type": "AndLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "221",
+            "222",
+            "223",
+            "224"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "227",
+        "type": "VariableNode",
+        "name": "$pln_var_PnnANsR7RBqpqznU",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "228",
+        "type": "VariableNode",
+        "name": "$pln_var_bS41aOcPM59zZcTO",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "230"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "229",
+        "type": "VariableNode",
+        "name": "$pln_var_L0g6L4Dmf2tesmlV",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "230"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "230",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "226",
+            "227",
+            "228",
+            "229"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "231",
+        "type": "VariableNode",
+        "name": "$pln_var_b7v1YqWoK0VB4OAx",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "233",
+        "type": "VariableNode",
+        "name": "$pln_var_OGJo4t7ZkJXYcbWP",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "235"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "236",
+        "type": "VariableNode",
+        "name": "$pln_var_in1Tn01Xvk9Lokhe",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "234",
+        "type": "VariableNode",
+        "name": "$pln_var_3Mrf6OQ9iiUDa658",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "235"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "232",
+        "type": "VariableNode",
+        "name": "$pln_var_bwmHbpOYD8kjDoP9",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "235"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "235",
+        "type": "AndLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "231",
+            "232",
+            "233",
+            "234"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "238",
+        "type": "VariableNode",
+        "name": "$pln_var_SKwcNaeufe24Phfl",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "240"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "242",
+        "type": "VariableNode",
+        "name": "$pln_var_K7120hLST7Mmpd4j",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "240",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "236",
+            "237",
+            "238",
+            "239"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "243",
+        "type": "VariableNode",
+        "name": "$pln_var_CrTbmyy6YPqWHh0o",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "245",
+        "type": "VariableNode",
+        "name": "$pln_var_pJVI0hYDk60fDOb0",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "246"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "237",
+        "type": "VariableNode",
+        "name": "$pln_var_9G51zuQBKSCXdmtZ",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "244",
+        "type": "VariableNode",
+        "name": "$pln_var_C6ws19kSwQPbC68x",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "246"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "247",
+        "type": "VariableNode",
+        "name": "$pln_var_PpH0xGdVsjBTwqBs",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "241",
+        "type": "VariableNode",
+        "name": "$pln_var_8Qhx5Wpx2fzq8P1G",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "246"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "248",
+        "type": "VariableNode",
+        "name": "$pln_var_zdgu478iRpMChyng",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "252"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "246",
+        "type": "AndLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "241",
+            "242",
+            "243",
+            "244",
+            "245"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "249",
+        "type": "VariableNode",
+        "name": "$pln_var_1f6xeTmoM6fq5w3O",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "252"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "250",
+        "type": "VariableNode",
+        "name": "$pln_var_px89OvB0o4yutTfh",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "252"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "251",
+        "type": "VariableNode",
+        "name": "$pln_var_crurTkvzU4dU1SiN",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "252"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "256",
+        "type": "VariableNode",
+        "name": "$pln_var_dmbzdbCnzQQZXEzb",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "258"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "253",
+        "type": "VariableNode",
+        "name": "$pln_var_6QKD9C2ZfOml4hpM",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "258"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "239",
+        "type": "VariableNode",
+        "name": "$pln_var_ZdZb7wTafan3F5K6",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "240"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "254",
+        "type": "VariableNode",
+        "name": "$pln_var_iMMVNOptnHs6zmz6",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "258"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "252",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "247",
+            "248",
+            "249",
+            "250",
+            "251"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "257",
+        "type": "VariableNode",
+        "name": "$pln_var_FhQiJ98tGlHYi8Ik",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "258"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "255",
+        "type": "VariableNode",
+        "name": "$pln_var_DjxZMFRLy8Xqn6gh",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "258"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "259",
+        "type": "VariableNode",
+        "name": "$pln_var_nD5WvCsnu0hqDYvj",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "261",
+        "type": "VariableNode",
+        "name": "$pln_var_1DvkA9OmzulnWtme",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "258",
+        "type": "AndLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "253",
+            "254",
+            "255",
+            "256",
+            "257"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "260",
+        "type": "VariableNode",
+        "name": "$pln_var_56nXMhUs54JKov9L",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "264"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "262",
+        "type": "VariableNode",
+        "name": "$pln_var_abxyhAXWxPEGBbHv",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "264"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "264",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "259",
+            "260",
+            "261",
+            "262",
+            "263"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "266",
+        "type": "VariableNode",
+        "name": "$pln_var_TgKPDKWZPCBqVQWc",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "268",
+        "type": "VariableNode",
+        "name": "$pln_var_wMrA7rrL1JZqCgLN",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "267",
+        "type": "VariableNode",
+        "name": "$pln_var_83wVRbG1vLk6iDL7",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "263",
+        "type": "VariableNode",
+        "name": "$pln_var_EwPJv7Ci2MsUANNX",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "264"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "269",
+        "type": "VariableNode",
+        "name": "$pln_var_D374Vxr0cp8YpfI7",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "271"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "270",
+        "type": "VariableNode",
+        "name": "$pln_var_ioBBXncnh0kYxMTX",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "271"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "272",
+        "type": "VariableNode",
+        "name": "$pln_var_E8cFaBLQFR4Ef5RU",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "271",
+        "type": "AndLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "265",
+            "266",
+            "267",
+            "268",
+            "269",
+            "270"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "275",
+        "type": "VariableNode",
+        "name": "$pln_var_v2AJlATlWozVZhF5",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "274",
+        "type": "VariableNode",
+        "name": "$pln_var_SctnpFaq6YNKkXYI",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "273",
+        "type": "VariableNode",
+        "name": "$pln_var_le5obcb3FMXu53L9",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "277",
+        "type": "VariableNode",
+        "name": "$pln_var_RZcVRrBw9Npt2bG1",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "278"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "278",
+        "type": "OrLink",
+        "name": "",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing":
+        [
+            "272",
+            "273",
+            "274",
+            "275",
+            "276",
+            "277"
+        ],
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "279",
+        "type": "VariableNode",
+        "name": "$pln_var_qd5qx1N6fN73rtVf",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "276",
+        "type": "VariableNode",
+        "name": "$pln_var_8izFlMSLT7a9H1Nq",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "278"
+        ]
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "280",
+        "type": "VariableNode",
+        "name": "$pln_var_6ZwI2lT0CMTdGskC",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "281",
+        "type": "VariableNode",
+        "name": "$pln_var_zEBlFzkKs7m8eUC2",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "282",
+        "type": "VariableNode",
+        "name": "$pln_var_nbHj3itQ3d95pEH1",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming": ""
+    }
+}
+
+[add] {
+    "atom":
+    {
+        "handle": "283",
+        "type": "VariableNode",
+        "name": "$pln_var_Sgc9BwGm7DXXlwvd",
+        "attentionvalue":
+        {
+            "sti": "0",
+            "lti": "0",
+            "vlti": "false"
+        },
+        "truthvalue":
+        {
+            "type": "simple",
+            "details":
+            {
+                "strength": "1",
+                "count": "0",
+                "confidence": "0"
+            }
+        },
+        "outgoing": "",
+        "incoming":
+        [
+            "285"
+        ]
+    }
+}
+
